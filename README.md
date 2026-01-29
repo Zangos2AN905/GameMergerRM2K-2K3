@@ -1,2 +1,5 @@
-# GameMergerRM2K-2K3
-Tool similar to HATE2K except instead of shuffling assets, you merge games.
+# RPG Maker 2000/2003 Game Merger
+
+This tool merges any RPG Maker 2k(3) game with another game, similar to HATE2K. 
+
+Thanks to LibLCF, This was made possible.
